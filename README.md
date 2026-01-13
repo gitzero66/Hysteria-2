@@ -12,7 +12,7 @@
 **快捷命令：hy2**
 
 ```
-(curl -LfsS https://raw.githubusercontent.com/0xdabiaoge/Hysteria-2/main/hy2.sh -o /usr/local/bin/hy2 || wget -q https://raw.githubusercontent.com/0xdabiaoge/Hysteria-2/main/hy2.sh -O /usr/local/bin/hy2) && chmod +x /usr/local/bin/hy2 && hy2
+(curl -LfsS https://raw.githubusercontent.com/gitzero66/Hysteria-2/main/hy2.sh -o /usr/local/bin/hy2 || wget -q https://raw.githubusercontent.com/gitzero66/Hysteria-2/main/hy2.sh -O /usr/local/bin/hy2) && chmod +x /usr/local/bin/hy2 && hy2
 ```
 
 ## **免责声明**
